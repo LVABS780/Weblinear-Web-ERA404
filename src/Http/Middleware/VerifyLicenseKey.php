@@ -1,4 +1,6 @@
-namespace weblinear_licensing\Licensing\Http\Middleware;
+<?php
+
+namespace Weblinear\WebEra404\Http\Middleware;
 
 use Closure;
 use Illuminate\Http\Request;

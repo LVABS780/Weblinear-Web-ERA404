@@ -1,4 +1,6 @@
-namespace weblinear_licensing\Licensing\Http\Controllers;
+<?php
+
+namespace Weblinear\WebEra404\Http\Controllers;
 
 use Illuminate\Http\Request;
 use Illuminate\Support\Facades\File;

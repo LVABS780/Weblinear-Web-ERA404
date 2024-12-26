@@ -1,4 +1,6 @@
-namespace weblinear_licensing\Licensing;
+<?php
+
+namespace Weblinear\WebEra404;
 
 use Illuminate\Support\ServiceProvider;
 
