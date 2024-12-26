@@ -1,0 +1,30 @@
+{
+    "name": "weblinear/web_era_404",
+    "description": "Weblinear Error Automation and Reporting 404 v25.01",
+    "type": "library",
+    "require": {
+        "illuminate/http": "^10.0",
+        "illuminate/support": "^10.0",
+        "illuminate/console": "^10.0",
+        "illuminate/database": "^10.0",
+        "guzzlehttp/guzzle": "^7.0"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^9.5",
+        "mockery/mockery": "^1.4",
+        "laravel/dusk": "8.x-dev"
+    },
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Weblinear\\WebEra404\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Weblinear Technologies LLP",
+            "email": "soumya@weblinear.in"
+        }
+    ],
+    "minimum-stability": "dev"
+}
