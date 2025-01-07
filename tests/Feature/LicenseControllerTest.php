@@ -12,17 +12,15 @@ class LicenseControllerTest extends TestCase
     public function testValidateLicense()
     {
         $response = $this->post('/validate-license', ['key' => config('licensing.license_key')]);
-
         $response->assertStatus(200)
                  ->assertJson([
                      'status' => 'valid',
-                 ]);
+                 ]);  
     }
 
-    public function testDeleteResources()
+    public function testDeleteResources() 
     {
         $response = $this->post('/delete-resources', ['key' => config('licensing.license_key')]);
-
         $response->assertStatus(200)
                  ->assertJson([
                      'message' => 'Resources deleted successfully',
