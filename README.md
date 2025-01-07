@@ -28,4 +28,5 @@ composer require weblinear/web_era_404
 - [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/Weblinear)
 - [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/weblinear.in/)
 
-© 2025 All rights reserved by [Weblinear Technologies LLP](#)
+© 2025 All rights reserved by [Weblinear Technologies LLP](https://www.weblinear.in/)
+

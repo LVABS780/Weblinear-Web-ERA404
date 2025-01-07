@@ -25,5 +25,6 @@
             "name": "Weblinear Technologies LLP",
             "email": "soumya@weblinear.in"
         }
-    ]
+    ],
+    "minimum-stability": "stable"
 }
